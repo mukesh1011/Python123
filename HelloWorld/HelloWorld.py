@@ -9,6 +9,11 @@ print("Hello" + " world")
 greeting = "Hello"
 name = "Mukesh"
 print(greeting + name)
-#comment
+# comment
 print(greeting + ' ' + name)
+
+print('My hovercraft is full of eels')
+print(6 * 7)
+
+
 
