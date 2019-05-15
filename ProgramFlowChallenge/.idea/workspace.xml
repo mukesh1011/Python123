@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a890193-c0e0-465e-896e-1fda15774fd3" name="Default Changelist" comment="">
+    <list default="true" id="13550ac1-0d30-4da8-88eb-958a5f6573b2" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../AugmentedAssignment/.idea/AugmentedAssignment.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../AugmentedAssignment/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../AugmentedAssignment/.idea/modules.xml" afterDir="false" />
@@ -10,21 +10,15 @@
       <change afterPath="$PROJECT_DIR$/../AugmentedAssignment/exercise1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ContinueBreak/exercise1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ContinueBreak/exercise2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramFlowChallenge/.idea/ProgramFlowChallenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramFlowChallenge/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramFlowChallenge/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramFlowChallenge/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramFlowChallenge/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramFlowChallenge/challenge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WhileLoop/.idea/WhileLoop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WhileLoop/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WhileLoop/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WhileLoop/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WhileLoop/while.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WhileLoop/while2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ProgramFlowChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challenge.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ContinueBreak/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ContinueBreak/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IfProgramFlow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IfProgramFlow/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variables/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Variables/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,12 +27,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/variables.py">
+        <entry file="file://$PROJECT_DIR$/challenge.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -58,7 +52,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/variables.py" />
+        <option value="$PROJECT_DIR$/challenge.py" />
       </list>
     </option>
   </component>
@@ -74,18 +68,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Variables" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Variables" type="462c0819:PsiDirectoryNode" />
+              <item name="ProgramFlowChallenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgramFlowChallenge" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -106,8 +100,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="variables" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Variables" />
+    <configuration name="challenge" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ProgramFlowChallenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -118,7 +112,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/variables.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/challenge.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +123,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.variables" />
+        <item itemvalue="Python.challenge" />
       </list>
     </recent_temporary>
   </component>
@@ -138,54 +132,42 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1a890193-c0e0-465e-896e-1fda15774fd3" name="Default Changelist" comment="" />
-      <created>1557443544810</created>
+      <changelist id="13550ac1-0d30-4da8-88eb-958a5f6573b2" name="Default Changelist" comment="" />
+      <created>1557914494232</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1557443544810</updated>
+      <updated>1557914494232</updated>
     </task>
-    <task id="LOCAL-00001" summary="10052019">
-      <created>1557444565474</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1557444565475</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="51" y="25" width="1869" height="945" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11646804" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13976164" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32965687" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23529412" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39950982" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32965687" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="10052019" />
-    <option name="LAST_COMMIT_MESSAGE" value="10052019" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/variables.py">
+    <entry file="file://$PROJECT_DIR$/challenge.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>

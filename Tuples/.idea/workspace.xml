@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="440972b2-a70a-4643-8ad3-d46bdb6ff38a" name="Default Changelist" comment="">
+    <list default="true" id="41012ee7-10f0-4870-af65-0358be6efc77" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../AugmentedAssignment/.idea/AugmentedAssignment.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../AugmentedAssignment/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../AugmentedAssignment/.idea/modules.xml" afterDir="false" />
@@ -10,12 +10,37 @@
       <change afterPath="$PROJECT_DIR$/../AugmentedAssignment/exercise1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ContinueBreak/exercise1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ContinueBreak/exercise2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IntroToLists/.idea/IntroToLists.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IntroToLists/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IntroToLists/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IntroToLists/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IntroToLists/list33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IntroToLists/lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IntroToLists/lists2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Iterators/.idea/Iterators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Iterators/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Iterators/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Iterators/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Iterators/iterator.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ProgramFlowChallenge/.idea/ProgramFlowChallenge.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ProgramFlowChallenge/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ProgramFlowChallenge/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ProgramFlowChallenge/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ProgramFlowChallenge/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ProgramFlowChallenge/challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ranges/.idea/Ranges.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ranges/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ranges/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ranges/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ranges/range2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ranges/ranges.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Tuples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuples2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../WhileLoop/.idea/WhileLoop.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../WhileLoop/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../WhileLoop/.idea/modules.xml" afterDir="false" />
@@ -23,7 +48,7 @@
       <change afterPath="$PROJECT_DIR$/../WhileLoop/while.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../WhileLoop/while2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ContinueBreak/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ContinueBreak/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IfProgramFlow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IfProgramFlow/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Variables/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Variables/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,48 +58,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ifprogramflow.py">
+        <entry file="file://$PROJECT_DIR$/tuples.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+            <state relative-caret-position="330">
+              <caret line="22" column="4" selection-start-line="22" selection-end-line="24" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ifprogramflow1.py">
+        <entry file="file://$PROJECT_DIR$/tuples2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercise1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-end-line="6" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercise2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            <state relative-caret-position="45">
+              <caret line="3" column="4" selection-start-line="3" selection-end-line="3" selection-end-column="123" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/challenge1.py">
+        <entry file="file://$PROJECT_DIR$/challenge.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+            <state relative-caret-position="90">
+              <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -94,11 +101,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ifprogramflow.py" />
-        <option value="$PROJECT_DIR$/exercise1.py" />
-        <option value="$PROJECT_DIR$/ifprogramflow1.py" />
-        <option value="$PROJECT_DIR$/exercise2.py" />
-        <option value="$PROJECT_DIR$/challenge1.py" />
+        <option value="$PROJECT_DIR$/tuples.py" />
+        <option value="$PROJECT_DIR$/tuples2.py" />
+        <option value="$PROJECT_DIR$/challenge.py" />
       </list>
     </option>
   </component>
@@ -114,18 +119,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="IfProgramFlow" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IfProgramFlow" type="462c0819:PsiDirectoryNode" />
+              <item name="Tuples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tuples" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -145,9 +150,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.challenge1">
-    <configuration name="challenge1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="IfProgramFlow" />
+  <component name="RunManager" selected="Python.challenge">
+    <configuration name="challenge" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Tuples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -158,7 +163,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/challenge1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/challenge.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,8 +172,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercise1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="IfProgramFlow" />
+    <configuration name="tuples" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Tuples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -179,7 +184,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tuples.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,8 +193,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercise2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="IfProgramFlow" />
+    <configuration name="tuples2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Tuples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -200,49 +205,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ifprogramflow" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="IfProgramFlow" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ifprogramflow.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ifprogramflow1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="IfProgramFlow" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ifprogramflow1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tuples2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,11 +216,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.challenge1" />
-        <item itemvalue="Python.exercise2" />
-        <item itemvalue="Python.ifprogramflow1" />
-        <item itemvalue="Python.exercise1" />
-        <item itemvalue="Python.ifprogramflow" />
+        <item itemvalue="Python.challenge" />
+        <item itemvalue="Python.tuples2" />
+        <item itemvalue="Python.tuples" />
       </list>
     </recent_temporary>
   </component>
@@ -266,11 +227,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="440972b2-a70a-4643-8ad3-d46bdb6ff38a" name="Default Changelist" comment="" />
-      <created>1557765235160</created>
+      <changelist id="41012ee7-10f0-4870-af65-0358be6efc77" name="Default Changelist" comment="" />
+      <created>1557962036341</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1557765235160</updated>
+      <updated>1557962036341</updated>
     </task>
     <servers />
   </component>
@@ -278,9 +239,13 @@
     <frame x="51" y="25" width="1869" height="945" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13217768" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12351029" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32965687" />
@@ -288,48 +253,30 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ifprogramflow.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ifprogramflow1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercise1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-end-line="6" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercise2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/challenge1.py">
+    <entry file="file://$PROJECT_DIR$/tuples2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <caret line="3" column="4" selection-start-line="3" selection-end-line="3" selection-end-column="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="4" selection-start-line="22" selection-end-line="24" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/challenge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
         </state>
       </provider>
     </entry>
