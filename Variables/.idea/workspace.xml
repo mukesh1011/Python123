@@ -2,15 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a890193-c0e0-465e-896e-1fda15774fd3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../StringFormatting/.idea/StringFormatting.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringFormatting/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringFormatting/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringFormatting/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringFormatting/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StringFormatting/StringFormatting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoops/.idea/ForLoops.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoops/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoops/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoops/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoops/exercise1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoops/exercise2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoops/exercise3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoops/forloops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoops/forloops1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IfProgramFlow/.idea/IfProgramFlow.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IfProgramFlow/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IfProgramFlow/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IfProgramFlow/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IfProgramFlow/challenge1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IfProgramFlow/exercise1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IfProgramFlow/exercise2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IfProgramFlow/ifprogramflow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IfProgramFlow/ifprogramflow1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tabs/.idea/Tabs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tabs/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tabs/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tabs/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tabs/Tabs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringFormatting/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StringFormatting/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../inputWay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../inputWay/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +39,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/variables.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="482">
+            <state relative-caret-position="707">
               <caret line="52" column="19" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
             </state>
           </provider>
@@ -170,7 +186,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/variables.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
+        <state relative-caret-position="707">
           <caret line="52" column="19" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
         </state>
       </provider>
