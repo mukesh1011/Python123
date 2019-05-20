@@ -2,54 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="122b8c27-2c81-45fe-81db-8ae26c23ace8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../AugmentedAssignment/.idea/AugmentedAssignment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AugmentedAssignment/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AugmentedAssignment/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AugmentedAssignment/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AugmentedAssignment/augmentedAssignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AugmentedAssignment/exercise1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ContinueBreak/exercise1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ContinueBreak/exercise2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroToLists/.idea/IntroToLists.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroToLists/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroToLists/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroToLists/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroToLists/list33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroToLists/lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroToLists/lists2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Iterators.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iterator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramFlowChallenge/.idea/ProgramFlowChallenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramFlowChallenge/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramFlowChallenge/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramFlowChallenge/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramFlowChallenge/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProgramFlowChallenge/challenge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ranges/.idea/Ranges.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ranges/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ranges/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ranges/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ranges/range2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ranges/ranges.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tuples/.idea/Tuples.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tuples/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tuples/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tuples/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tuples/challenge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tuples/tuples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tuples/tuples2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WhileLoop/.idea/WhileLoop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WhileLoop/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WhileLoop/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WhileLoop/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WhileLoop/while.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WhileLoop/while2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ContinueBreak/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ContinueBreak/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfProgramFlow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IfProgramFlow/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Variables/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Variables/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntroToLists/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntroToLists/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tuples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tuples/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -183,7 +137,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32965687" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32965687" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
