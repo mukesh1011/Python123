@@ -1,22 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14a4fd8d-0ea3-4a3f-b969-0fbde8b58ff6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/append.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pickling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shelveExample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ModuleImport/.idea/ModuleImport.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ModuleImport/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ModuleImport/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ModuleImport/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ModuleImport/dir.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ModuleImport/timeanddate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ModuleImport/turtleDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ModuleImport/webbrowsermodule.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fileio.py" beforeDir="false" afterPath="$PROJECT_DIR$/fileio.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sample.txt" afterDir="false" />
+    <list default="true" id="f7cf694f-0cdb-41b3-bd2a-f93ca634bfbc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../FileIO/append.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileIO/binary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileIO/pickling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileIO/shelveExample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ModuleImport.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dir.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytztest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thinterDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timeanddate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtleDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webbrowsermodule.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO/fileio.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO/fileio.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO/sample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO/sample.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,55 +29,49 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fileio.py">
+        <entry file="file://$PROJECT_DIR$/turtleDemo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+            <state relative-caret-position="135">
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+              <folding>
+                <element signature="e#15#54#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/writing.py">
+        <entry file="file://$PROJECT_DIR$/dir.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+            <state>
+              <caret column="10" selection-start-column="10" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/append.py">
+        <entry file="file://$PROJECT_DIR$/webbrowsermodule.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="65" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/binary.py">
+        <entry file="file://$PROJECT_DIR$/timeanddate.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pickling.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="60">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/shelveExample.py">
+        <entry file="file://$PROJECT_DIR$/thinterDemo.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -95,12 +91,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/writing.py" />
-        <option value="$PROJECT_DIR$/append.py" />
-        <option value="$PROJECT_DIR$/binary.py" />
-        <option value="$PROJECT_DIR$/pickling.py" />
-        <option value="$PROJECT_DIR$/fileio.py" />
-        <option value="$PROJECT_DIR$/shelveExample.py" />
+        <option value="$PROJECT_DIR$/turtleDemo.py" />
+        <option value="$PROJECT_DIR$/dirt.py" />
+        <option value="$PROJECT_DIR$/dir.py" />
+        <option value="$PROJECT_DIR$/webbrowser.py" />
+        <option value="$PROJECT_DIR$/webbrowsermodule.py" />
+        <option value="$PROJECT_DIR$/timeanddate.py" />
+        <option value="$PROJECT_DIR$/thinterDemo.py" />
       </list>
     </option>
   </component>
@@ -116,23 +113,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="FileIO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FileIO" type="462c0819:PsiDirectoryNode" />
+              <item name="ModuleImport" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ModuleImport" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -146,9 +143,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.shelveExample">
-    <configuration name="append" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="FileIO" />
+  <component name="RunManager" selected="Python.thinterDemo">
+    <configuration name="dir" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ModuleImport" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -159,7 +156,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/append.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dir.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,8 +165,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="binary" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="FileIO" />
+    <configuration name="thinterDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ModuleImport" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -180,7 +177,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/binary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/thinterDemo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,8 +186,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fileio" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="FileIO" />
+    <configuration name="timeanddate" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ModuleImport" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -201,7 +198,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fileio.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/timeanddate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,8 +207,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pickling" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="FileIO" />
+    <configuration name="turtleDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ModuleImport" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -222,7 +219,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pickling.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/turtleDemo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -231,8 +228,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="shelveExample" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="FileIO" />
+    <configuration name="webbrowser" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ModuleImport" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -243,7 +240,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shelveExample.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webbrowsermodule.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -254,11 +251,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.shelveExample" />
-        <item itemvalue="Python.fileio" />
-        <item itemvalue="Python.pickling" />
-        <item itemvalue="Python.binary" />
-        <item itemvalue="Python.append" />
+        <item itemvalue="Python.thinterDemo" />
+        <item itemvalue="Python.timeanddate" />
+        <item itemvalue="Python.webbrowser" />
+        <item itemvalue="Python.dir" />
+        <item itemvalue="Python.turtleDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -267,11 +264,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="14a4fd8d-0ea3-4a3f-b969-0fbde8b58ff6" name="Default Changelist" comment="" />
-      <created>1558355898008</created>
+      <changelist id="f7cf694f-0cdb-41b3-bd2a-f93ca634bfbc" name="Default Changelist" comment="" />
+      <created>1558529463926</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1558355898008</updated>
+      <updated>1558529463926</updated>
     </task>
     <servers />
   </component>
@@ -284,7 +281,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32965687" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32965687" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -299,60 +296,47 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cities.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/binary">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imelda.pickle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ShelfTest">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fileio.py">
+    <entry file="file://$PROJECT_DIR$/dirt.py" />
+    <entry file="file:///usr/lib/python3.6/shelve.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+        <state relative-caret-position="-2610" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/turtleDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding>
+            <element signature="e#15#54#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/writing.py">
+    <entry file="file://$PROJECT_DIR$/dir.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/append.py">
+    <entry file="file://$PROJECT_DIR$/webbrowsermodule.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="65" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/binary.py">
+    <entry file="file://$PROJECT_DIR$/timeanddate.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        <state relative-caret-position="60">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pickling.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shelveExample.py">
+    <entry file="file://$PROJECT_DIR$/thinterDemo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
