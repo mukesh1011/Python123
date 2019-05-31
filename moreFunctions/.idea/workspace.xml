@@ -2,40 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6b8428c-d9ea-4b8b-ae89-c51ee142800e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../FileIO/append.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FileIO/binary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FileIO/pickling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FileIO/shelveExample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions/.idea/Functions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions/functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ModuleImport/.idea/ModuleImport.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ModuleImport/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ModuleImport/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ModuleImport/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ModuleImport/dir.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ModuleImport/pytztest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ModuleImport/thinterDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ModuleImport/timeanddate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ModuleImport/turtleDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ModuleImport/webbrowsermodule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Scope/.idea/Scope.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Scope/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Scope/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Scope/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Scope/filesanddirectories.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Scope/scope.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/moreFunctions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/import_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moreFunctions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileIO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileIO/fileio.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO/fileio.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FileIO/sample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO/sample.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Functions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scope/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scope/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -191,7 +159,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="51" y="25" width="1869" height="945" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14138678" />
@@ -202,7 +169,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32965687" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32965687" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39950982" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
