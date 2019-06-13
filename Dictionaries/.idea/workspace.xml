@@ -2,26 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9568ce7b-b57b-4857-b655-f1b6dcefd7f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Dictionaries.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionaries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionaries2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionaries3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroToLists/quiz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sets/.idea/Sets.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sets/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sets/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sets/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sets/set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sets/set5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sets/sets2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sets/sets3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sets/sets4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IntroToLists/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntroToLists/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Iterators/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Iterators/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tuples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tuples/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../panda/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../panda/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../panda/.idea/panda.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../panda/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../panda/panda1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App_Dictionary/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../App_Dictionary/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dictionaries.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="32" lean-forward="true" selection-end-line="4" selection-end-column="47" />
+            <state relative-caret-position="90">
+              <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -43,17 +29,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dictionaries2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dictionaries3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -91,13 +77,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
   </component>
   <component name="RunDashboard">
@@ -112,7 +99,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.dictionaries3">
+  <component name="RunManager" selected="Python.dictionaries">
     <configuration name="dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Dictionaries" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,9 +165,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.dictionaries3" />
-        <item itemvalue="Python.dictionaries2" />
         <item itemvalue="Python.dictionaries" />
+        <item itemvalue="Python.dictionaries2" />
+        <item itemvalue="Python.dictionaries3" />
       </list>
     </recent_temporary>
   </component>
@@ -199,6 +186,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="51" y="25" width="1869" height="945" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13596967" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -220,24 +208,24 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dictionaries3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dictionaries2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dictionaries.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="32" lean-forward="true" selection-end-line="4" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dictionaries3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        <state relative-caret-position="90">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
         </state>
       </provider>
     </entry>
