@@ -2,18 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="055000f8-e18d-4ad1-a205-d24efa4d724c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../file_loading/.idea/file_loading.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../file_loading/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../file_loading/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../file_loading/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../file_loading/file_pandas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../panda/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../panda/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../panda/.idea/panda.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../panda/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../panda/panda1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../databases/.idea/databases.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../databases/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../databases/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../databases/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../databases/database_credentials" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../databases/sciprt2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../databases/scrip1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/App_Dictionary.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/App_Dictionary.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dictionaries/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dictionaries/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter_section/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter_section/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="405">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -141,6 +140,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="51" y="25" width="1869" height="945" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1375948" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -164,8 +164,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
