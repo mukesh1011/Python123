@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97224666-53f3-4b29-ab81-a19900af0fbb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../book_store_app/.idea/book_store_app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../book_store_app/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../book_store_app/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../book_store_app/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../book_store_app/backend.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../book_store_app/script1.py" afterDir="false" />
+    <list default="true" id="95806e8f-0d94-4ea5-9b3f-3ca685134445" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../bank_account_oop/.idea/bank_account_oop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank_account_oop/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank_account_oop/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank_account_oop/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank_account_oop/acc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank_account_oop/balance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/book_store_app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../databases/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter_section/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter_section/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +29,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/script1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            <state relative-caret-position="-181">
+              <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+              <folding>
+                <element signature="e#159#180#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="885">
+              <caret line="59" column="2" selection-start-line="59" selection-start-column="2" selection-end-line="59" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -43,6 +62,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/backend.py" />
         <option value="$PROJECT_DIR$/script1.py" />
       </list>
     </option>
@@ -63,8 +83,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="tkinter_section" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tkinter_section" type="462c0819:PsiDirectoryNode" />
+              <item name="book_store_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book_store_app" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -74,8 +94,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tkinter_section" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -90,9 +111,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="script1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="tkinter_section" />
+  <component name="RunManager" selected="Python.script1">
+    <configuration name="backend" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="book_store_app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backend.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="script1" type="PythonConfigurationType" factoryName="Python">
+      <module name="book_store_app" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -114,7 +156,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.script1" />
+        <item itemvalue="Python.backend" />
       </list>
     </recent_temporary>
   </component>
@@ -123,37 +165,28 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="97224666-53f3-4b29-ab81-a19900af0fbb" name="Default Changelist" comment="" />
-      <created>1560939337443</created>
+      <changelist id="95806e8f-0d94-4ea5-9b3f-3ca685134445" name="Default Changelist" comment="" />
+      <created>1561455239417</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1560939337443</updated>
+      <updated>1561455239417</updated>
     </task>
     <servers />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="51" y="25" width="1869" height="945" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13109426" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12892741" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32965687" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39950982" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32965687" />
+      <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
@@ -164,15 +197,20 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///usr/lib/python3.6/bdb.py">
+    <entry file="file://$PROJECT_DIR$/backend.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2790" />
+        <state relative-caret-position="885">
+          <caret line="59" column="2" selection-start-line="59" selection-start-column="2" selection-end-line="59" selection-end-column="2" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/script1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        <state relative-caret-position="-181">
+          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+          <folding>
+            <element signature="e#159#180#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

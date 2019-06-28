@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0c323aa-a2d8-49a4-b141-879dfbcdbc7d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Game/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank_account_oop/.idea/bank_account_oop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank_account_oop/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank_account_oop/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank_account_oop/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank_account_oop/acc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank_account_oop/balance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_store_app/.idea/book_store_app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_store_app/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_store_app/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_store_app/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_store_app/backend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_store_app/script1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../databases/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter_section/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter_section/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +38,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/oop1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="990">
+            <state relative-caret-position="1005">
               <caret line="67" selection-start-line="67" selection-end-line="67" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
@@ -36,7 +50,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/song.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
+            <state relative-caret-position="1320">
               <caret line="112" selection-start-line="112" selection-end-line="112" />
             </state>
           </provider>
@@ -68,7 +82,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="285" />
     <option name="y" value="47" />
     <option name="width" value="1400" />
@@ -97,6 +111,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -204,8 +219,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="51" y="25" width="1869" height="945" extended-state="7" />
-    <editor active="true" />
+    <frame x="51" y="25" width="1869" height="945" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12784399" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -294,7 +308,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/oop1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
+        <state relative-caret-position="1005">
           <caret line="67" selection-start-line="67" selection-end-line="67" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
@@ -307,7 +321,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/song.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
+        <state relative-caret-position="1320">
           <caret line="112" selection-start-line="112" selection-end-line="112" />
         </state>
       </provider>

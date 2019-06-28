@@ -2,18 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33252508-4f0a-44d7-a341-cb621f53f769" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../file_loading/.idea/file_loading.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../file_loading/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../file_loading/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../file_loading/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../file_loading/file_pandas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/panda.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/panda1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../App_Dictionary/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../App_Dictionary/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dictionaries/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dictionaries/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataVisualization_Bokeh/.idea/DataVisualization_Bokeh.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataVisualization_Bokeh/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataVisualization_Bokeh/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataVisualization_Bokeh/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataVisualization_Bokeh/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataVisualization_Bokeh/script1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataVisualization_Bokeh/script2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank_account_oop/.idea/bank_account_oop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank_account_oop/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank_account_oop/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank_account_oop/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank_account_oop/acc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank_account_oop/balance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_store_app/.idea/book_store_app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_store_app/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_store_app/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_store_app/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_store_app/backend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book_store_app/script1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../databases/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/panda.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/panda.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tkinter_section/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter_section/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +39,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/panda1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state relative-caret-position="135">
+              <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -51,7 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="285" />
     <option name="y" value="47" />
     <option name="width" value="1400" />
@@ -63,7 +76,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -75,10 +87,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -92,6 +106,34 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="panda1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="panda" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/panda1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.panda1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -107,14 +149,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="51" y="25" width="1869" height="945" extended-state="7" />
+    <frame x="51" y="25" width="1869" height="945" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12513542" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12459372" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32965687" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -131,8 +174,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/panda1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        <state relative-caret-position="135">
+          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
         </state>
       </provider>
     </entry>
