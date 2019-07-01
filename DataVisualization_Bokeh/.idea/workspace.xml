@@ -1,43 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c39720e-087b-4065-badd-f11255455d0c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DataVisualization_Bokeh.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adbe.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bachelors.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web_Scraping/.idea/Web_Scraping.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web_Scraping/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web_Scraping/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web_Scraping/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web_Scraping/script1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bank_account_oop/.idea/bank_account_oop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bank_account_oop/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bank_account_oop/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bank_account_oop/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bank_account_oop/acc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bank_account_oop/balance" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../book_store_app/.idea/book_store_app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../book_store_app/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../book_store_app/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../book_store_app/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../book_store_app/backend.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../book_store_app/script1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../databases/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../databases/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../panda/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../panda/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../panda/.idea/panda.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../panda/.idea/panda.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../panda/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../panda/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tkinter_section/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tkinter_section/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5c39720e-087b-4065-badd-f11255455d0c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,15 +9,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/script1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-end-line="17" selection-end-column="30" />
-              <folding>
-                <element signature="e#0#33#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="225">
+              <caret line="16" column="7" selection-start-line="16" selection-end-line="17" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -62,7 +23,7 @@
         <entry file="file://$PROJECT_DIR$/script4.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="4" lean-forward="true" selection-end-line="3" />
+              <caret column="4" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -71,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/script5.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
               <folding>
                 <element signature="e#0#33#0" expanded="true" />
               </folding>
@@ -100,7 +61,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/script3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="45">
               <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
               <folding>
                 <element signature="e#1#34#0" expanded="true" />
@@ -148,7 +109,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -160,6 +120,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -311,7 +272,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="51" y="25" width="1869" height="945" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.14626218" />
@@ -343,9 +303,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bachelors.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/bachelors.py" />
     <entry file="file://$PROJECT_DIR$/bachelors.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -353,30 +311,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/script3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-          <folding>
-            <element signature="e#1#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/script2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="10" selection-start-line="2" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/script1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-end-line="17" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="225">
+          <caret line="16" column="7" selection-start-line="16" selection-end-line="17" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -387,17 +332,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/script4.py">
+    <entry file="file://$PROJECT_DIR$/script2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="4" lean-forward="true" selection-end-line="3" />
+        <state relative-caret-position="45">
+          <caret line="3" column="10" selection-start-line="2" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+          <folding>
+            <element signature="e#1#34#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/script5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
           <folding>
             <element signature="e#0#33#0" expanded="true" />
           </folding>

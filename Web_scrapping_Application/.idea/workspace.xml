@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fca7c812-690a-4c62-8f13-09c20394ef50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Web_scrapping_Application/.idea/Web_scrapping_Application.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web_scrapping_Application/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web_scrapping_Application/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web_scrapping_Application/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Web_scrapping_Application/script1.py" afterDir="false" />
+    <list default="true" id="7df70a7e-c026-4b6c-a93f-7ebbc565db2e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Web_scrapping_Application.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DataVisualization_Bokeh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DataVisualization_Bokeh/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web_Scraping/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Web_Scraping/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,17 +17,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/script1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+            <state relative-caret-position="255">
+              <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/output.csv">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -61,18 +66,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Web_Scraping" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Web_Scraping" type="462c0819:PsiDirectoryNode" />
+              <item name="Web_scrapping_Application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web_scrapping_Application" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -94,7 +99,7 @@
   </component>
   <component name="RunManager">
     <configuration name="script1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Web_Scraping" />
+      <module name="Web_scrapping_Application" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -125,11 +130,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fca7c812-690a-4c62-8f13-09c20394ef50" name="Default Changelist" comment="" />
-      <created>1561717543323</created>
+      <changelist id="7df70a7e-c026-4b6c-a93f-7ebbc565db2e" name="Default Changelist" comment="" />
+      <created>1561985367067</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1561717543323</updated>
+      <updated>1561985367067</updated>
     </task>
     <servers />
   </component>
@@ -137,20 +142,20 @@
     <frame x="51" y="25" width="1869" height="945" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12730227" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1191766" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32965687" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32965687" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -159,13 +164,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/script1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        <state relative-caret-position="255">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output.csv">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
