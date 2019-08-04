@@ -2,25 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41012ee7-10f0-4870-af65-0358be6efc77" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Dictionaries/.idea/Dictionaries.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dictionaries/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dictionaries/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dictionaries/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dictionaries/dictionaries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dictionaries/dictionaries2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dictionaries/dictionaries3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IntroToLists/quiz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sets/.idea/Sets.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sets/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sets/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sets/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sets/set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sets/set5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sets/sets2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sets/sets3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sets/sets4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForLoops/.idea/ForLoops.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ForLoops/.idea/ForLoops.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForLoops/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ForLoops/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForLoops/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ForLoops/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntroToLists/.idea/IntroToLists.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntroToLists/.idea/IntroToLists.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntroToLists/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntroToLists/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../IntroToLists/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntroToLists/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Iterators/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Iterators/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Tuples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Tuples.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,20 +20,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tuples.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="4" selection-start-line="22" selection-end-line="24" selection-end-column="11" />
+            <state relative-caret-position="60">
+              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tuples2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -80,10 +69,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="285" />
-    <option name="y" value="47" />
-    <option name="width" value="1400" />
-    <option name="height" value="903" />
+    <option name="x" value="55" />
+    <option name="y" value="25" />
+    <option name="width" value="1311" />
+    <option name="height" value="743" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -108,7 +97,8 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -122,7 +112,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.challenge">
+  <component name="RunManager" selected="Python.tuples">
     <configuration name="challenge" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Tuples" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -188,9 +178,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tuples" />
         <item itemvalue="Python.challenge" />
         <item itemvalue="Python.tuples2" />
-        <item itemvalue="Python.tuples" />
       </list>
     </recent_temporary>
   </component>
@@ -208,15 +198,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="51" y="25" width="1869" height="945" extended-state="6" />
+    <frame x="55" y="25" width="1311" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12351029" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1234472" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32965687" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -238,17 +228,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tuples.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="4" selection-start-line="22" selection-end-line="24" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tuples2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
         </state>
       </provider>
     </entry>
